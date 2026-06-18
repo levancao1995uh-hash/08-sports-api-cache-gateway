@@ -1,0 +1,55 @@
+{
+  "repository_name": "08-sports-api-cache-gateway",
+  "description": "Sports API cache gateway for football live score API, fixtures, standings, rate limiting, openfootball and TheSportsDB wrappers.",
+  "topics": [
+    "sports-api",
+    "football-api",
+    "live-score-api",
+    "api-gateway",
+    "api-cache",
+    "rate-limiting",
+    "soccer-api",
+    "football-data-api",
+    "openfootball",
+    "thesportsdb",
+    "football-data-org",
+    "python",
+    "pytest",
+    "developer-tools",
+    "seo-ready",
+    "github-search"
+  ],
+  "visibility": "public",
+  "homepage": "",
+  "default_branch": "main",
+  "about_section": {
+    "description": "Sports API cache gateway for football live score API, fixtures, standings, rate limiting, openfootball and TheSportsDB wrappers.",
+    "topics": [
+      "sports-api",
+      "football-api",
+      "live-score-api",
+      "api-gateway",
+      "api-cache",
+      "rate-limiting",
+      "soccer-api",
+      "football-data-api",
+      "openfootball",
+      "thesportsdb",
+      "football-data-org",
+      "python",
+      "pytest",
+      "developer-tools",
+      "seo-ready",
+      "github-search"
+    ],
+    "website": "Set after Resource Portals domain is confirmed"
+  },
+  "github_search_intent": [
+    "repository name",
+    "description",
+    "topics",
+    "README first screen",
+    "docs titles",
+    "examples and tests"
+  ]
+}
