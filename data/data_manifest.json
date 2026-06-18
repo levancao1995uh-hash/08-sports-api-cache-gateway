@@ -1,0 +1,11 @@
+{
+  "project": "sports-api-cache-gateway",
+  "target_large_dataset_mb": 300,
+  "generated_now_mb": 0,
+  "reason": "Large files are not generated until user confirms disk usage.",
+  "sources": [
+    "football-data.org",
+    "TheSportsDB",
+    "openfootball/football.json"
+  ]
+}
