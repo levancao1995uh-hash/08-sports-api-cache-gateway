@@ -1,0 +1,9 @@
+﻿[project]
+name = "08-sports-api-cache-gateway"
+version = "0.1.0"
+description = "涓?football-data.org銆乀heSportsDB銆乷penfootball 鎻愪緵缁熶竴缂撳瓨銆侀檺娴併€侀噸璇曞拰鏈湴鏁版嵁鍥為€€灞傘€?
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
