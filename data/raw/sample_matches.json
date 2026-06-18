@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "date": "2026-06-01",
+    "home_team": "Sample FC",
+    "away_team": "Demo United",
+    "status": "SCHEDULED"
+  }
+]
